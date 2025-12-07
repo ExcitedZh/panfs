@@ -1,6 +1,4 @@
-name = "panfs" # 你的项目名称，可以根据需要更改
-main = "index.html" # 对于 Pages 项目，通常不需要 main 字段，但如果需要，可以指向 index.html
+name = "panfs"
 
 [site]
-bucket = "./dist" # 指向你的构建输出目录
-entry-point = "." # Pages 项目的入口点，通常是根目录
+bucket = "./dist"
